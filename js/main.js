@@ -1,6 +1,6 @@
 var $body = $('.banner');
 var $star;
-var bannerWidth = $body.outerwidth();
+var bannerWidth = $body.outerWidth();
 var bannerHeight = $body.outerHeight();
 
 for (i = 0; i < 75; i++) {
